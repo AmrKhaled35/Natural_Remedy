@@ -13,7 +13,7 @@ function AuthPage() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-green-50 to-white overflow-hidden relative py-8">
       <LeafBackground />
       
-      <div className="z-10 w-full max-w-md px-4">
+      <div className="z-10 w-full max-w-md px-4 mt-16">
         <div className="flex flex-col items-center mb-8">
           <h1 className="text-4xl md:text-5xl font-semibold text-green-800 mb-3 font-herbal text-center leading-tight">
             Natural Remedy
